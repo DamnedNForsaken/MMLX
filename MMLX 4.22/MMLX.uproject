@@ -3,6 +3,16 @@
 	"EngineAssociation": "4.22",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "MMLX",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "Substance",
@@ -13,10 +23,6 @@
 			"Name": "ToolbagImporter",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5510b9babf944b8e97cd533640f78a2f"
-		},
-		{
-			"Name": "SteamVR",
-			"Enabled": false
 		}
 	]
 }
