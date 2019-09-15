@@ -1,0 +1,3 @@
+Name,SpeakerName,SpeakerPortrait,bIsPlayer,bSilentResponses
+Sign,Sign Post,Material'/Game/BlueprintDialogues/SampleContent/DialogueSampleContent/Materials/M_Atlas_Groggeroo_Talking.M_Atlas_Groggeroo_Talking',FALSE,FALSE
+DemoPlayer,Demo Player,MaterialInstanceConstant'/Game/BlueprintDialogues/Materials/MI_SampleAvatar.MI_SampleAvatar',TRUE,TRUE
