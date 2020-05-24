@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.24",
+	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "",
 	"Modules": [
@@ -21,7 +21,7 @@
 		},
 		{
 			"Name": "ToolbagImporter",
-			"Enabled": true,
+			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5510b9babf944b8e97cd533640f78a2f"
 		}
 	]
