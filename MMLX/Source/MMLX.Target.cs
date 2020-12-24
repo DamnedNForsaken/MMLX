@@ -8,7 +8,6 @@ public class MMLXTarget : TargetRules
 	public MMLXTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
 
 		ExtraModuleNames.AddRange( new string[] { "MMLX" } );
 	}
